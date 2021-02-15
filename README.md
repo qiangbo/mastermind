@@ -3,15 +3,13 @@ Mastermind game simulator and solver.
 
   1. To learn how to play Mastermind board game and its variants: https://en.wikipedia.org/wiki/Mastermind_(board_game)
   2. To simulate the entire game (let the computer be both the codemaker and codebreaker):
-     
-     python mastermind_simulator.py both
+  
+  python mastermind_simulator.py both
      
      sample output:
      
-      code maker set to: ['green', 'blue', 'green', 'white']
-      
+      code maker set to: ['green', 'blue', 'green', 'white']    
       code breaker start cracking:
-      
       attempt 1: ['red', 'blue', 'green', 'white'], key pegs: {'black': 3, 'white': 0}
       
       attempt 2: ['red', 'blue', 'green', 'red'], key pegs: {'black': 2, 'white': 0}
@@ -28,7 +26,7 @@ Mastermind game simulator and solver.
       
       solution reached after 7th attempt
       
-    3. To simulate the codebreaker only (require user input):
+    3. To simulate the codebreaker only (require user inputs for number of black and white pegs):
 
      python mastermind_simulator.py breaker
      
