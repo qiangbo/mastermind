@@ -1,4 +1,4 @@
-# mastermind
+# Mastermind
 Mastermind game simulator and solver.
 
 ## 1. To learn how to play Mastermind board game and its variants: https://en.wikipedia.org/wiki/Mastermind_(board_game)
