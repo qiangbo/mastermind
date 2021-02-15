@@ -1,5 +1,5 @@
 # Mastermind
-Mastermind game simulator and solver.
+Mastermind game simulator and solver in Python.
 
 ## 1. To learn how to play Mastermind board game and its variants: https://en.wikipedia.org/wiki/Mastermind_(board_game)
 ## 2. To simulate the entire game (let the computer be both the codemaker and codebreaker):
